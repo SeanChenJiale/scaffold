@@ -3,4 +3,6 @@ A project scaffold for Python
 ## Step 1
 Type this in in your virtual environment to get an SSH Key  
 ssh-keygen -t rsa  
+sample image  
+![image](https://github.com/SeanChenJiale/scaffold/assets/153470046/342703db-08e1-4ee1-9b2b-37cba73cc8ae)
 
