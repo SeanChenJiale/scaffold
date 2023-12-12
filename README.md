@@ -5,7 +5,9 @@ Type this in your virtual environment to get an SSH Key
 ```
 ssh-keygen -t rsa  
 cat /home/ec2-user//.ssh/id_rsa.pub
-# the string is within the public key section of the image below 
+# the string is within the public key section of the image below
+# touch file_name
+# make lint
 ```
 
 ## Sample images  
